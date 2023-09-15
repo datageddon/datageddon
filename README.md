@@ -1,6 +1,10 @@
 ## Datageddon
   
-  
+<div align="center">
+<img src="https://github.com/datageddon/datageddon/blob/main/rsc/data_and_ai.gif?raw=true" align="center" height="" width="" />
+</div> 
+
+<br>
 
 <a href="https://github.com/datageddon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -34,12 +38,7 @@ If you're looking for a data science pal who is passionate about their work and 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="" />
-</div>  
-
+</td><td valign="top" width="50%"> 
 
 </td></tr></table>  
 
