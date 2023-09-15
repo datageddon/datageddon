@@ -1,4 +1,4 @@
-## Datageddon
+## Shahram Khalid
   
 <div align="center">
 <img src="https://github.com/datageddon/datageddon/blob/main/rsc/data_and_ai.gif?raw=true" align="center" height="" width="" />
@@ -24,7 +24,7 @@ If you're looking for a data science pal who is passionate about their work and 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [my initial commit]()  
   
@@ -37,8 +37,6 @@ If you're looking for a data science pal who is passionate about their work and 
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-
-</td><td valign="top" width="50%"> 
 
 </td></tr></table>  
 
